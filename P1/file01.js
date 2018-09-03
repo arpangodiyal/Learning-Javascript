@@ -1,6 +1,13 @@
 var player1CurrentScore = 0, player2CurrentScore = 0, player1 = 0, player2 = 0, 
 activePlayer = 1;
 
+function reset(){
+	player1CurrentScore = 0;
+	player2CurrentScore = 0;
+	player1 = 0;
+	player2 = 0;
+}
+
 //Events on rolling a dice
 document.querySelector('.Button').addEventListener('click',function(){
 
@@ -37,6 +44,11 @@ document.querySelector(".Hold").addEventListener('click', function(){
 
 	if(activePlayer == 1){
 		player1 += player1CurrentScore;
+		if(player1 >= 100){
+			document.querySelector(".Winner").innerHTML = '<b>' + 'Winner is Player-1'
+			'</b>';
+			reset();
+		}
 		player1CurrentScore = 0;
 		activePlayer = 2;
 		document.querySelector(".Player1").textContent = player1;
@@ -45,6 +57,11 @@ document.querySelector(".Hold").addEventListener('click', function(){
 
 	else if(activePlayer == 2){
 		player2 += player2CurrentScore;
+		if(player2 >= 100){
+			document.querySelector(".Winner").innerHTML = '<b>' + 'Winner is Player-2'
+			'</b>';
+			reset();
+		}
 		player2CurrentScore = 0;
 		activePlayer = 1;
 		document.querySelector(".Player2").textContent = player2;
