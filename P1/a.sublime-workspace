@@ -1,0 +1,804 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"sr",
+				"start"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"a",
+				"addEdge"
+			],
+			[
+				"fo",
+				"for\tFor Loop"
+			],
+			[
+				"ti",
+				"tipCalc"
+			],
+			[
+				"C",
+				"calcBMI"
+			],
+			[
+				"ma",
+				"mark"
+			],
+			[
+				"c",
+				"calAge"
+			],
+			[
+				"pr",
+				"profession"
+			],
+			[
+				"L",
+				"lastName"
+			],
+			[
+				"bm",
+				"bmiJohn"
+			],
+			[
+				"jo",
+				"johnHeight"
+			],
+			[
+				"p",
+				"prompt"
+			],
+			[
+				"re",
+				"recipe"
+			],
+			[
+				"add",
+				"addEdge"
+			],
+			[
+				"fr",
+				"first"
+			],
+			[
+				"se",
+				"second"
+			],
+			[
+				"compare",
+				"compare2"
+			],
+			[
+				"di",
+				"difficulty"
+			],
+			[
+				"no",
+				"no_of_subtask"
+			],
+			[
+				"bits",
+				"bitset"
+			],
+			[
+				"bis",
+				"bitset"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"ve",
+				"vertical"
+			],
+			[
+				"m",
+				"moves"
+			],
+			[
+				"fac",
+				"factorial"
+			],
+			[
+				"s",
+				"scores"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"on",
+				"one_in_columns"
+			],
+			[
+				"mo",
+				"moveleft"
+			],
+			[
+				"it",
+				"it2"
+			],
+			[
+				"d",
+				"days"
+			],
+			[
+				"en",
+				"end"
+			],
+			[
+				"i",
+				"inc\t#include <…>"
+			],
+			[
+				"A",
+				"AddEdge"
+			],
+			[
+				"qu",
+				"question_id"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"ptr",
+				"ptr2"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"n",
+				"noofbribes"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"P",
+				"Password"
+			],
+			[
+				"func",
+				"func2"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"is_i",
+				"is_int"
+			],
+			[
+				"str",
+				"str3"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"va",
+				"var1"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"e",
+				"erase"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"np",
+				"noofsteps"
+			],
+			[
+				"sc",
+				"sc1"
+			],
+			[
+				"cs",
+				"cstring\tstandard header"
+			],
+			[
+				"bfs",
+				"bfsorder"
+			],
+			[
+				"pu",
+				"push_back"
+			],
+			[
+				"dis",
+				"distance"
+			],
+			[
+				"bf",
+				"bfsorder"
+			],
+			[
+				"vector",
+				"vector\tstandard header"
+			],
+			[
+				"li",
+				"list\tstandard header"
+			],
+			[
+				"mag",
+				"magazine"
+			],
+			[
+				"un",
+				"unordered_map\tstandard header (since c++11)"
+			],
+			[
+				"map",
+				"map\tstandard header"
+			],
+			[
+				"ans",
+				"ans2"
+			],
+			[
+				"an",
+				"ans2"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"so",
+				"solve"
+			],
+			[
+				"dele",
+				"delete"
+			],
+			[
+				"de",
+				"deletenode"
+			],
+			[
+				"su",
+				"succ"
+			],
+			[
+				"r",
+				"root"
+			],
+			[
+				"roo",
+				"root-"
+			],
+			[
+				"is",
+				"isright"
+			],
+			[
+				"cou",
+				"countleaves"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"tr",
+				"traversal"
+			],
+			[
+				"t",
+				"traversal"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"push",
+				"push_back"
+			],
+			[
+				"comm",
+				"comments"
+			],
+			[
+				"T",
+				"TextField"
+			],
+			[
+				"share",
+				"share_form"
+			],
+			[
+				"publish",
+				"publish_manager"
+			],
+			[
+				"au",
+				"auto_now"
+			],
+			[
+				"STAT",
+				"STATICFILES_DIRS"
+			],
+			[
+				"db",
+				"db_from_env"
+			],
+			[
+				"col",
+				"col-xs-6"
+			],
+			[
+				"M",
+				"max_length"
+			],
+			[
+				"col-xs",
+				"col-xs-offset-4"
+			],
+			[
+				"btn",
+				"btn-lg"
+			],
+			[
+				"V",
+				"Vedios"
+			],
+			[
+				"regi",
+				"register_model"
+			],
+			[
+				"lo",
+				"login_model"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"stu",
+				"student_form"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"usr",
+				"username"
+			],
+			[
+				"reg",
+				"registeruser"
+			],
+			[
+				"U",
+				"User"
+			],
+			[
+				"User",
+				"userloginform"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"clea",
+				"cleaned_data"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"ce",
+				"cellpadding\tAttr"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"em",
+				"emptable"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"dro",
+				"dropdown"
+			],
+			[
+				"drop",
+				"dropdown"
+			],
+			[
+				"na",
+				"nav-tabs"
+			],
+			[
+				"btn-grou",
+				"btn-group-justified"
+			],
+			[
+				"post",
+				"postadmin"
+			],
+			[
+				"btn-",
+				"btn-primary"
+			],
+			[
+				"table",
+				"table-responsive"
+			],
+			[
+				"lis",
+				"list-group-item-heading"
+			],
+			[
+				"list-group",
+				"list-group-item"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"img",
+				"img-thumbnail"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Arpan Godiyal/Desktop/JS/P1/a.html",
+		"/C/Users/Arpan Godiyal/Desktop/JS/file01.js",
+		"/C/Users/Arpan Godiyal/Desktop/JS/file01.html",
+		"/C/Users/Arpan Godiyal/Desktop/Untitled1.cpp",
+		"/C/Users/Arpan Godiyal/Desktop/untitled11.py",
+		"/C/Users/Arpan Godiyal/Desktop/source.csv",
+		"/C/Users/Arpan Godiyal/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/C/Users/Arpan Godiyal/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Arpan Godiyal/Desktop/Untitled2.cpp",
+		"/C/Users/Arpan Godiyal/Desktop/100/1.js",
+		"/C/Users/Arpan Godiyal/Desktop/100/a.html",
+		"/C/Users/Arpan Godiyal/Desktop/Untitled3.cpp",
+		"/C/Users/Arpan Godiyal/Desktop/untitled0.py",
+		"/C/Users/Arpan Godiyal/Desktop/env1/project1/polls/templates/index.html",
+		"/C/Users/Arpan Godiyal/Desktop/env1/project1/polls/views.py",
+		"/C/Users/Arpan Godiyal/Desktop/env1/project1/project1/urls.py",
+		"/C/Users/Arpan Godiyal/Desktop/env1/project1/polls/urls.py",
+		"/C/Users/Arpan Godiyal/Desktop/env1/project1/polls/admin.py",
+		"/C/Users/Arpan Godiyal/Desktop/env1/project1/project1/settings.py",
+		"/C/Users/Arpan Godiyal/Desktop/env1/project1/polls/models.py",
+		"/C/Users/Arpan Godiyal/AppData/Local/Temp/Temp1_9.2.php.zip/__MACOSX/._9.2.php",
+		"/C/Users/Arpan Godiyal/Desktop/project/blog/accounts/views.py",
+		"/J/Codes done in class/09-trees-bst/03-permutation.cc",
+		"/C/xampp/htdocs/php-course/Post/post1.php",
+		"/C/xampp/htdocs/info.php",
+		"/C/xampp/htdocs/php-course/usingfunctions.php",
+		"/C/xampp/htdocs/php-course/info.php",
+		"/C/Users/Arpan Godiyal/Desktop/web/a.html",
+		"/J/xamp/htdocs/info.php",
+		"/J/xamp/htdocs/info.php.txt",
+		"/F/DSA/Codes done in class/01-intro/07-hanoi.cc",
+		"/F/DSA/Codes done in class/07-trees/02-tree.cc",
+		"/F/DSA/Codes done in class/05-ll-questions/01-creation.cc",
+		"/F/DSA/Codes done in class/07-trees/01-histogram.cc",
+		"/F/DSA/Codes done in class/06-oops/07-stack.cc",
+		"/F/DSA/Codes done in class/01-intro/01-garbage-collector.cc",
+		"/C/Users/Arpan Godiyal/Desktop/a.cpp",
+		"/C/Users/Arpan Godiyal/Desktop/hi.cpp",
+		"/C/Users/Arpan Godiyal/Desktop/hi2.cpp",
+		"/C/Users/Arpan Godiyal/Desktop/hello.java",
+		"/C/Users/Arpan Godiyal/Desktop/env2/blog/blog/urls.py",
+		"/C/Users/Arpan Godiyal/Desktop/env2/app/models.py",
+		"/C/Users/Arpan Godiyal/Desktop/env2/app/admin.py",
+		"/C/Users/Arpan Godiyal/Desktop/env2/blog/blog/settings.py",
+		"/C/Users/Arpan Godiyal/Desktop/env/blog/app/forms.py",
+		"/C/Users/Arpan Godiyal/Desktop/env/blog/blog/urls.py",
+		"/C/Users/Arpan Godiyal/Desktop/project1/templates/home.html",
+		"/C/Users/Arpan Godiyal/Desktop/project1/templates/index.html",
+		"/C/Users/Arpan Godiyal/Desktop/project1/routes.py",
+		"/C/Users/Arpan Godiyal/Desktop/prac.py",
+		"/C/Users/Arpan Godiyal/Desktop/p.py",
+		"/C/Users/Arpan Godiyal/Documents/C-Free/NONAME01.CPP",
+		"/C/Users/Arpan Godiyal/Desktop/4.cpp",
+		"/C/Users/Arpan Godiyal/Desktop/live/live/settings.py",
+		"/C/Users/Arpan Godiyal/Desktop/live/myapp/views.py",
+		"/C/Users/Arpan Godiyal/Desktop/live1/procfile",
+		"/C/Users/Arpan Godiyal/Desktop/live1/static/one.css",
+		"/C/Users/Arpan Godiyal/Desktop/live1/myapp/views.py",
+		"/C/Users/Arpan Godiyal/Desktop/live1/runtime.txt",
+		"/C/Users/Arpan Godiyal/Desktop/live1/live1/urls.py",
+		"/C/Users/Arpan Godiyal/Desktop/project2/blog/blog/settings.py",
+		"/C/Users/Arpan Godiyal/Desktop/project2/templates/login.html",
+		"/C/Users/Arpan Godiyal/Desktop/project2/blog/blog/wsgi.py",
+		"/C/Users/Arpan Godiyal/Desktop/project2/runtime.txt",
+		"/C/Users/Arpan Godiyal/Desktop/project2/procfile",
+		"/C/Users/Arpan Godiyal/Desktop/project2/templates/home.html",
+		"/C/Users/Arpan Godiyal/Desktop/project2/blog/blog/urls.py",
+		"/C/Users/Arpan Godiyal/Desktop/project2/accounts/models.py",
+		"/C/Users/Arpan Godiyal/Desktop/project2/templates/upload.html",
+		"/C/Users/Arpan Godiyal/Desktop/project2/templates/play.html",
+		"/C/Users/Arpan Godiyal/Desktop/project2/templates/watch.html",
+		"/C/Users/Arpan Godiyal/Desktop/project2/accounts/views.py",
+		"/C/Users/Arpan Godiyal/Desktop/project2/templates/4.cpp",
+		"/C/Users/Arpan Godiyal/Desktop/project2/accounts/admin.py",
+		"/C/Users/Arpan Godiyal/Desktop/q.cpp",
+		"/C/Users/Arpan Godiyal/Desktop/django2/blog/first/views.py",
+		"/C/Users/Arpan Godiyal/Desktop/django2/blog/blog/settings.py",
+		"/C/Users/Arpan Godiyal/Desktop/jango1/blog/accounts/urls.py",
+		"/C/Users/Arpan Godiyal/Desktop/jango1/blog/blog/urls.py",
+		"/C/Users/Arpan Godiyal/Desktop/jango/accounts/models.py",
+		"/C/Users/Arpan Godiyal/Desktop/jango/emp/urls.py",
+		"/C/Users/Arpan Godiyal/Desktop/jango/blog/blog/urls.py",
+		"/C/Users/Arpan Godiyal/Desktop/jango/accounts/forms.py",
+		"/C/Users/Arpan Godiyal/Desktop/jango/templates/signup.html",
+		"/C/Users/Arpan Godiyal/Desktop/jango/templates/login.html",
+		"/C/Users/Arpan Godiyal/Desktop/jango/blog/blog/settings.py",
+		"/C/Users/Arpan Godiyal/Desktop/jango/emp/views.py",
+		"/C/Users/Arpan Godiyal/Desktop/jango/templates/delete.html",
+		"/C/Users/Arpan Godiyal/Desktop/jango/templates/empview.html",
+		"/C/Users/Arpan Godiyal/Desktop/jango/templates/emphome.html",
+		"/C/Users/Arpan Godiyal/Desktop/jango/emp/forms.py",
+		"/C/Users/Arpan Godiyal/Desktop/jango/templates/empcreate.html",
+		"/C/Users/Arpan Godiyal/Desktop/jango/templates/update.html",
+		"/C/Users/Arpan Godiyal/Desktop/jango/templates/home.html",
+		"/C/Users/Arpan Godiyal/Desktop/jango/blog/blog/views.py",
+		"/C/Users/Arpan Godiyal/Desktop/django3/blog/static/css/style1.css",
+		"/C/Users/Arpan Godiyal/Desktop/django3/first/urls.py",
+		"/C/Users/Arpan Godiyal/Desktop/django3/blog/blog/urls.py",
+		"/C/Users/Arpan Godiyal/Desktop/page1/a.html",
+		"/C/Users/Arpan Godiyal/Desktop/django3/templates/home.html",
+		"/F/Python/Python/Database connection/d.py",
+		"/F/Python/Python/Database connection/c.py",
+		"/C/Users/Arpan Godiyal/Desktop/django3/first/forms.py",
+		"/C/Users/Arpan Godiyal/Desktop/django3/first/views.py",
+		"/C/Users/Arpan Godiyal/Desktop/django3/blog/blog/views.py",
+		"/C/Users/Arpan Godiyal/Desktop/django3/first/admin.py",
+		"/C/Users/Arpan Godiyal/Desktop/django3/first/models.py",
+		"/C/Users/Arpan Godiyal/Desktop/django3/blog/blog/settings.py",
+		"/C/Users/Arpan Godiyal/Desktop/django3/blog/first/admin.py",
+		"/C/Users/Arpan Godiyal/Desktop/django3/blog/first/models.py",
+		"/C/Users/Arpan Godiyal/Desktop/django3/blog/first/forms.py",
+		"/C/Users/Arpan Godiyal/Desktop/django3/templates/p.html",
+		"/C/Users/Arpan Godiyal/Desktop/paragraph.html",
+		"/C/Users/Arpan Godiyal/Desktop/style1.css",
+		"/C/Users/Arpan Godiyal/Desktop/p.html",
+		"/F/Bootstrap/gallery.html",
+		"/F/Python/Python/Learn django/django2/templates/menu.html",
+		"/F/Bootstrap/index.html",
+		"/C/Users/Arpan Godiyal/Desktop/gallery.html",
+		"/C/Users/Arpan Godiyal/Desktop/index.html",
+		"/C/Users/Arpan Godiyal/Desktop/jango/blog/first/urls.py",
+		"/C/Users/Arpan Godiyal/Desktop/jango/blog/first/models.py",
+		"/C/Users/Arpan Godiyal/Desktop/jango/blog/first/forms.py",
+		"/C/Users/Arpan Godiyal/Desktop/jango/blog/first/views.py",
+		"/C/Users/Arpan Godiyal/Desktop/jango/templates/create.html",
+		"/C/Users/Arpan Godiyal/Desktop/jango/templates/firsthome.html",
+		"/C/Users/Arpan Godiyal/Desktop/jango/blog/db.sqlite3",
+		"/C/Users/Arpan Godiyal/Desktop/my/blog/blog/views.py"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 128.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "a.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
