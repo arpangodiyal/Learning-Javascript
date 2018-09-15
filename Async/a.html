@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Asynchronous Javascript</title>
+	</head>
+
+	<body>
+		<h2> Asynchronous Javascript </h2>
+	</body>
+
+	<script>
+		const second = () => {
+			setTimeout(() => {
+				console.log('In the second function');
+			}, 5000);
+		}
+
+		console.log('Begin');
+		second();
+		console.log('End');
+	</script>
+
+</html>
